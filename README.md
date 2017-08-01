@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="about/OA Lock (trans).png" width="350"/>
+  <img src="https://farm5.staticflickr.com/4330/35499239023_553e89b5b2_m.jpg" width="154"/>
 </p>
 
 ## What is SPARC Africa
